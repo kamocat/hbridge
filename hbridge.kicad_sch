@@ -3775,6 +3775,9 @@
     (path "/4a04e81e-870b-4066-97ff-3ebdbee2273b"
       (reference "#PWR0107") (unit 1) (value "+12V") (footprint "")
     )
+    (path "/e3ab32a2-d24b-4fb6-8355-a8aa2f4d46d8/83e74b86-1704-4632-8f74-1430a0fc71c2"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
+    )
     (path "/60edc9be-ffd4-4131-94ec-c92d31cecaae"
       (reference "C1") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -3786,6 +3789,9 @@
     )
     (path "/ac307040-8d98-4cf5-9497-be6a89aeb7de"
       (reference "C13") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/e3ab32a2-d24b-4fb6-8355-a8aa2f4d46d8/a73cc03c-9217-4694-9f28-e0b39775daa7"
+      (reference "C21") (unit 1) (value "0.1u") (footprint "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm")
     )
     (path "/85750ffe-db8b-44b0-b700-bcbc8d7aeacf"
       (reference "D1") (unit 1) (value "1N4148") (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal")
@@ -3861,6 +3867,9 @@
     )
     (path "/e3ab32a2-d24b-4fb6-8355-a8aa2f4d46d8/d95e3a26-d6cc-40af-b3cd-ca597bc3c083"
       (reference "U22") (unit 1) (value "74HC00") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
+    )
+    (path "/e3ab32a2-d24b-4fb6-8355-a8aa2f4d46d8/1853af2b-a59e-4fc4-bf95-187a034d70fa"
+      (reference "U22") (unit 2) (value "74HC00") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
     )
     (path "/e3ab32a2-d24b-4fb6-8355-a8aa2f4d46d8/9520ad1b-d040-49c0-bb0c-15c8b3e5464b"
       (reference "U22") (unit 3) (value "74HC00") (footprint "Package_DIP:DIP-14_W7.62mm_Socket")
